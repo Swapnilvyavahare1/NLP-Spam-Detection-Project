@@ -4,6 +4,6 @@
 - Preprocessing- TFIDF
 - Algorithms- 
 - ML- RF, MultinomialNB, Log Reg
-- DL- BERT (bert_preprocess bert_encoder)
+- DL- BERT (bert_preprocess and bert_encoder)
 - Cosine similarity
 - Functional API
